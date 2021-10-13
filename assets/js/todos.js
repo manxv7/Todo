@@ -1,6 +1,6 @@
 //Checking off the completed todo
 const p=document.querySelector("ul");
-
+// hello
     p.addEventListener("click",(e)=>{
         const target=e.target;
         if(target.matches("li"))
